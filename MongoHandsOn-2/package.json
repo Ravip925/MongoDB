@@ -1,0 +1,23 @@
+{
+  "name": "mongohandson-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravip925/MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravip925/MongoDB/issues"
+  },
+  "homepage": "https://github.com/Ravip925/MongoDB#readme",
+  "dependencies": {
+    "mongoose": "^6.7.4"
+  }
+}
